@@ -13,7 +13,7 @@ if (!isset($_SESSION['chat_history'])) {
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && !isset($_POST['reset'])) {
     $input = $_POST['input'];
-    $apiKey = 'AIzaSyAAIdccTxZtmP5ZeBvNHyYFitdX83eKVPk';
+    $apiKey = 'KODE_API_ANDA';
     $url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=' . $apiKey;
 
     $data = json_encode([
