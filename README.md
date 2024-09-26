@@ -14,6 +14,13 @@ Ada 2 versi yang saya buat:
 1. **Versi tampilan web responsive** pada file `index.php`
 2. **Versi tampilan mobile** pada file `index_mobile.php`
 
+## Screenshot
+### Versi Web
+![Versi Web](https://github.com/cendolboy/geminichatbypaamos/blob/main/Screenshoot%20Web%20Responsive.png?raw=true)
+
+### Versi Mobile
+![Versi Mobile](https://github.com/cendolboy/geminichatbypaamos/blob/18aecce739f9769e32c990e8d69f0e0f40cbbb1f/Screenshoot%20Mobile.png?raw=true)
+
 ## Teknologi yang Digunakan
 - **Backend:** PHP
 - **Frontend:** HTML, CSS, JavaScript
