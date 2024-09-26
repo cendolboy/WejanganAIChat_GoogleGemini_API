@@ -1,6 +1,7 @@
 # Pembuatan Realtime Chat Menggunakan Google Gemini API
 
 [![Video Pembuatan Realtime Chat](https://img.youtube.com/vi/BUMg6493VMU/0.jpg)](https://www.youtube.com/watch?v=BUMg6493VMU)
+*Klik gambar di atas untuk menonton video demonstrasi!*
 
 ## Deskripsi Proyek
 Proyek ini adalah aplikasi chat sederhana yang memungkinkan pengguna untuk berinteraksi dengan AI menggunakan API Google AI Studio. Aplikasi ini menyimpan riwayat chat dalam sesi dan memberikan antarmuka pengguna yang responsif.
@@ -27,3 +28,9 @@ Ada 2 versi yang saya buat:
 - **Backend:** PHP
 - **Frontend:** HTML, CSS, JavaScript
 - **API:** Google AI untuk menghasilkan konten
+
+## Ucapan Terima Kasih
+Terima kasih telah mengunjungi proyek ini! Semoga proyek ini bermanfaat bagi Anda.
+
+## Disclaimer
+Video dan proyek ini dibuat sebagai media pembelajaran untuk mempelajari AI dan API Google Gemini. Semua konten di sini bertujuan untuk mendidik dan tidak untuk tujuan komersial.
