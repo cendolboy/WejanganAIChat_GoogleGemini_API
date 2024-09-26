@@ -1,6 +1,7 @@
 # Pembuatan Realtime Chat Menggunakan Google Gemini API
 
 [![Video Pembuatan Realtime Chat](https://img.youtube.com/vi/BUMg6493VMU/0.jpg)](https://www.youtube.com/watch?v=BUMg6493VMU)
+
 *Klik gambar di atas untuk menonton video demonstrasi!*
 
 ## Deskripsi Proyek
